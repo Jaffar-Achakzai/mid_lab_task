@@ -1,12 +1,10 @@
-import logo from './logo.svg';
+import CountDownLightSwitch from './component/CountDownLightSwitch';
 import './App.css';
 
 function App() {
   return (
     <>
-    <h1>
-      Hello World! 
-    </h1>
+   <CountDownLightSwitch/>
     </>
   );
 }
