@@ -13,7 +13,7 @@ function CountDownLightSwitch() {
       });
 
     return (
-<>    <div className="form-container">
+<>    <div className="MId LAb TASk ">
       <h2>CountDown And Light Switch</h2>
       <form onstarttimer={formik.handlestarttimer}>
       
